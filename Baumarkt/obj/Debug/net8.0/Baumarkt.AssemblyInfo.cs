@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baumarkt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3346207b68e4db677f97251710ba6550302536f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baumarkt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baumarkt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,22 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FIA\\AppData\\Local\\Temp\\m0oae4bd..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|c:\\users\\fia\\source\\repos\\baumarkt\\baumarkt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|solutionrelative:baumarkt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|c:\\users\\fia\\source\\repos\\baumarkt\\baumarkt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|solutionrelative:baumarkt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|c:\\users\\fia\\source\\repos\\baumarkt\\baumarkt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|solutionrelative:baumarkt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FIA\\AppData\\Local\\Temp\\m0oae4bd..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|c:\\users\\fia\\source\\repos\\baumarkt\\baumarkt\\baumarkt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2D5892F9-C28F-4306-9690-3104245E5B63}|Baumarkt\\Baumarkt.csproj|solutionrelative:baumarkt\\baumarkt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,51 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SQLQuery5.sql ",
-              "DocumentMoniker": "C:\\Users\\FIA\\AppData\\Local\\Temp\\m0oae4bd..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\m0oae4bd..sql",
-              "ToolTip": "SQLQuery5.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-10-28T07:57:32.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\Program.cs",
-              "RelativeDocumentMoniker": "Baumarkt\\Program.cs",
-              "ToolTip": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\Program.cs",
-              "RelativeToolTip": "Baumarkt\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T07:57:17.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Baumarkt\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Baumarkt\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T07:55:21.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\appsettings.json",
-              "RelativeDocumentMoniker": "Baumarkt\\appsettings.json",
-              "ToolTip": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\appsettings.json",
-              "RelativeToolTip": "Baumarkt\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-28T07:49:52.425Z",
+              "Title": "Baumarkt",
+              "DocumentMoniker": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\Baumarkt.csproj",
+              "RelativeDocumentMoniker": "Baumarkt\\Baumarkt.csproj",
+              "ToolTip": "C:\\Users\\FIA\\source\\repos\\Baumarkt\\Baumarkt\\Baumarkt.csproj",
+              "RelativeToolTip": "Baumarkt\\Baumarkt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T07:05:55.002Z",
               "EditorCaption": ""
             }
           ]
